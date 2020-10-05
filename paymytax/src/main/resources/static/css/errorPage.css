@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+.err-head{
+	color: Red;
+	background-color:peachpuff
+}
+.err-home{
+	text-align:left;
+}
+.card-text	{
+	color:firbrick;
+	
+}
+
+.card-title	{
+	color:darkred;
+}
+
+body{
+	background-color: beige;
+	font-family: arial;
+}

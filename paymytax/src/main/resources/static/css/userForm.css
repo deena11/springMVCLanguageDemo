@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+body	{
+	background-color: beige;
+	font-family: arial;
+}
+.err-data	{
+	color: red;
+}
